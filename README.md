@@ -36,5 +36,5 @@ python main.py
 
 ```
 
-## This is the result of the program
-![Your Image](result.png)
+## Here a preview of the user using ROI Selection Tool
+![Your Image](imgseg2.png)
