@@ -11,6 +11,8 @@ import cv2
 
 def grabcut_program(img_path, mask):
     # Import my image.
+    #this will read our image
+    
     myimg = cv2.imread(img_path)
 
     #if cannot read image path.
